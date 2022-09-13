@@ -1,0 +1,20 @@
+id = 1adc87a4-323a-4ae5-8793-8d3b12ef2ab3
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"b9aea88d-dcd9-4dab-9be2-d839c9e9842c","path":"New Collection(1).json","metaData":{}}
+files[] = {"id":"31132484-7b0f-4f37-a89d-912593706c11","path":"New Collection(2).json","metaData":{}}
+files[] = {"id":"efb392b7-76ff-4994-94ea-2c2e8502296f","path":"New Collection.json","metaData":{}}
+files[] = {"id":"cf21d422-7c15-4ca2-bb2a-8886d3fb0c95","path":"Petstore reference_896503-cf21d422-7c15-4ca2-bb2a-8886d3fb0c95.json","metaData":{}}
+files[] = {"id":"a9ceab4c-71ab-4aa9-9902-fd7cf208418d","path":"Schema collection.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"schema.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
